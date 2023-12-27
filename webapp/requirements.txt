@@ -1,5 +1,5 @@
 shinylive
-astral==2.2
+astral
 shinyswatch
-shiny==0.6.0
-click==8.1.7
+shiny
+click

@@ -1,8 +1,9 @@
 colorlog==6.7.0
 pip>=21.0,<23.2
 ruff==0.0.265
-click==8.1.7
+click
 pre-commit
+astral
 
 # Install HA and test dependencies (pytest, coverage)
 # To pin the dev container to a specific HA version, set this dependency
